@@ -1,6 +1,6 @@
 # DTerm for Boxen
 
-[![Build Status](https://travis-ci.org/hakamadare/puppet-trackballworks.png?branch=master)](https://travis-ci.org/hakamadare/puppet-trackballworks)
+[![Build Status](https://travis-ci.org/hakamadare/puppet-dterm.png?branch=master)](https://travis-ci.org/hakamadare/puppet-dterm)
 
 This Boxen module installs [DTerm](http://decimus.net/DTerm).
 
