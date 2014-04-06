@@ -1,7 +1,7 @@
-# Install TrackballWorks.
-class trackballworks {
-  package { 'Kensington TrackballWorks':
-    provider => 'pkgdmg',
-    source   => 'http://accoblobstorageus.blob.core.windows.net/software/71f3c09e-e50c-4d71-92be-fd96a9fd13fc.dmg',
+# Install DTerm.
+class dterm {
+  package { 'DTerm':
+    provider => 'compressed_app',
+    source   => 'http://files.decimus.net/DTerm/DTerm.zip',
   }
 }

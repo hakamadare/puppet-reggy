@@ -1,13 +1,13 @@
-# Kensington TrackballWorks for Boxen
+# DTerm for Boxen
 
 [![Build Status](https://travis-ci.org/hakamadare/puppet-trackballworks.png?branch=master)](https://travis-ci.org/hakamadare/puppet-trackballworks)
 
-This Boxen module installs [Kensington TrackballWorks](http://www.kensington.com/kensington/us/us/s/1517/trackballworks%E2%84%A2-software-download.aspx), the driver and configuration utility for Kensington trackballs.
+This Boxen module installs [DTerm](http://decimus.net/DTerm).
 
 ## Usage
 
 ```puppet
-class { 'trackballworks': }
+class { 'dterm': }
 ```
 
 ## Required Puppet Modules
