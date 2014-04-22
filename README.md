@@ -1,13 +1,13 @@
-# DTerm for Boxen
+# DTerm for Reggy
 
-[![Build Status](https://travis-ci.org/hakamadare/puppet-dterm.png?branch=master)](https://travis-ci.org/hakamadare/puppet-dterm)
+[![Build Status](https://travis-ci.org/hakamadare/puppet-reggy.png?branch=master)](https://travis-ci.org/hakamadare/puppet-reggy)
 
-This Boxen module installs [DTerm](http://decimus.net/DTerm).
+This Boxen module installs [Reggy](http://reggyapp.com).
 
 ## Usage
 
 ```puppet
-class { 'dterm': }
+class { 'reggy': }
 ```
 
 ## Required Puppet Modules
