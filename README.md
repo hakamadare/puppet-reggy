@@ -1,4 +1,4 @@
-# DTerm for Reggy
+# Reggy for Boxen
 
 [![Build Status](https://travis-ci.org/hakamadare/puppet-reggy.png?branch=master)](https://travis-ci.org/hakamadare/puppet-reggy)
 
