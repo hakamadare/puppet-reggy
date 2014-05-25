@@ -1,13 +1,14 @@
 # Reggy for Boxen
 
-[![Build Status](https://travis-ci.org/hakamadare/puppet-reggy.png?branch=master)](https://travis-ci.org/hakamadare/puppet-reggy)
+[![Build Status](https://travis-ci.org/boxen/puppet-reggy.svg)](https://travis-ci.org/boxen/puppet-reggy)
+
 
 This Boxen module installs [Reggy](http://reggyapp.com).
 
 ## Usage
 
 ```puppet
-class { 'reggy': }
+include reggy
 ```
 
 ## Required Puppet Modules
